@@ -1,0 +1,24 @@
+
+<div class="container--t">
+  <div class="hhjj">
+  <h1>Add Plant</h1>
+  <form #plantsFrom="ngForm" (ngSubmit)="onPlantCreate(plantsFrom.value)">
+    <input type="text" placeholder="Название" name="name" ngModel>
+    <input type="text" placeholder="Описание" name="description" ngModel>
+    <input type="url" placeholder="Изображение" name="images" ngModel>
+    <select name="category" required="required" placeholder="Категория" id="cat" ngModel>
+      <option value="Деревья">Деревья</option>
+      <option value="Уличные">Уличные</option>
+      <option value="Садовые">Садовые</option>
+      <option value="Домашние">Домашние</option>
+    </select>
+    <input type="number" placeholder="Солнце" name="sunlight" ngModel>
+    <input type="number" placeholder="Полив" name="watering" ngModel>
+    <input type="number" placeholder="Температура" name="temperature" ngModel>
+    <input type="submit" value="Add Plant">
+  </form>
+  </div>
+</div>
+
+
+

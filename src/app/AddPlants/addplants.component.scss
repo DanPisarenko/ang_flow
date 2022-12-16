@@ -1,0 +1,32 @@
+*{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.container--t{
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  top: 30%;
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+
+}
+form{
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+
+form input select{
+
+  margin: 0 0 10px 0;
+  font-size: 11pt;
+}
+h1{
+  margin: 20px;
+}
+.hhjj{
+  background-color: greenyellow;
+  padding: 25px;
+  border-radius: 15px;
+}

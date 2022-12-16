@@ -1,0 +1,57 @@
+[
+  {
+    "name": "Plant 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Уличные",
+    "sunlight": "нужно",
+    "wetering": "2/в неделю",
+    "temperature": "20C"
+  },
+  {
+    "name": "Plant 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Домашние",
+    "sunlight": "нужно",
+    "wetering": "2/в неделю",
+    "temperature": "20C"
+  },
+  {
+    "name": "Plant 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Садовые",
+    "sunlight": "не обязательно",
+    "wetering": "2/в неделю",
+    "temperature": "35C"
+  },
+  {
+    "name": "Plant 4",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Уличные",
+    "sunlight": "нужно",
+    "wetering": "2/в неделю",
+    "temperature": "40C"
+  },
+  {
+    "name": "Plant 5",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Домашние",
+    "sunlight": "не обязательно",
+    "wetering": "2/в неделю",
+    "temperature": "36C"
+  },
+  {
+    "name": "Plant 6",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, expedita?",
+    "images": "https://www.pngmart.com/files/21/Aesthetic-Plant-PNG-Free-Download.png",
+    "category": "Уличные",
+    "sunlight": "ненужно",
+    "wetering": "2/в неделю",
+    "temperature": "20C"
+  }
+
+]

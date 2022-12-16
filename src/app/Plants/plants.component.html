@@ -1,0 +1,13 @@
+
+<div class="allPlants">
+  <div class="clms" *ngFor="let plt of plantsPart">
+  <div class="hhh">
+    <div class="fhgfd" *ngIf="plt.category === cat"> 
+    <p>Название растения: {{plt.name}}</p>
+    <p>{{plt.category}}</p>
+    <img src="{{plt.images[0]}}" alt="{{plt.name}}" width="350">
+    <a routerLink="/plant/{{plt._id}}" routerLinkActive="active">See more</a>
+  </div></div>
+</div>
+</div>
+
